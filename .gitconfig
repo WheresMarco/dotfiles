@@ -1,0 +1,5 @@
+[user]
+	name = Marco Hyyryläinen
+	email = marco@wheresmar.co
+[core]
+	excludesfile = /Users/marco/.gitignore
