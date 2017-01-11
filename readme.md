@@ -8,7 +8,6 @@ Based on [Sam Soffes](https://github.com/soffes/dotfiles).
     $ git init
     $ git remote add origin https://github.com/wheresmarco/dotfiles.git
     $ git pull origin master
-    $ ~/Scripts/install.sh
 
 ## Stuff To Change
 
