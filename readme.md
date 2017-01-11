@@ -11,6 +11,6 @@ Based on [Sam Soffes](https://github.com/soffes/dotfiles).
 
 ## Stuff To Change
 
-**Please change the `.gitconfig` so you don't commit everything as me.** You'll also need to remove the `signingkey` option under my email and the `commit` section at the bottom of that file. Everything else shouldn't need tweaking.
+**Please change the `.gitconfig` so you don't commit everything as me.**
 
 Enjoy.
